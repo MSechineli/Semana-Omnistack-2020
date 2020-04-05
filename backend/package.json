@@ -1,0 +1,12 @@
+{
+  "name": "Semana-Omnistack-2020",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "repository": "https://github.com/MSechineli/Semana-Omnistack-2020.git",
+  "author": "MSechineli",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
